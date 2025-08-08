@@ -45,7 +45,7 @@ Replace `/dev/sdX` with your USB device.
 
 ---
 ## References repositories
-https://github.com/quantdlinux/quantd-iso
+[https://github.com/quantdlinux/quantd-iso](https://github.com/quantdlinux/quantd-iso)
 ## 📜 License
 
 GPLv3  
