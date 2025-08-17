@@ -35,7 +35,7 @@ This project builds a bootable ISO based on **Debian 13 (trixie)** for general d
 ### Write to USB:
 
 ```
-sudo dd if= quantd-image-amd64.hybrid.v2.0 .iso of=/dev/sdX bs=4M status=progress
+sudo dd if=quantd-live-image-amd64.xxx.iso of=/dev/sdX bs=4M status=progress
 ```
 
 Replace `/dev/sdX` with your USB device.
